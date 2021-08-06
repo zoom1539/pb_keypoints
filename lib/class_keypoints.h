@@ -2,6 +2,24 @@
 
 #include "opencv2/opencv.hpp"
 
+// Result for COCO (17 body parts)
+// {0,  "Nose"},
+// {1,  "LEye"},
+// {2,  "REye"},
+// {3,  "LEar"},
+// {4,  "REar"},
+// {5,  "LShoulder"},
+// {6,  "RShoulder"},
+// {7,  "LElbow"},
+// {8,  "RElbow"},
+// {9,  "LWrist"},
+// {10, "RWrist"},
+// {11, "LHip"},
+// {12, "RHip"},
+// {13, "LKnee"},
+// {14, "Rknee"},
+// {15, "LAnkle"},
+// {16, "RAnkle"},
 
 class Keypoints
 { 
